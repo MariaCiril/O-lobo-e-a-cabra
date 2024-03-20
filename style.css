@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(180, 38, 3);
-    color: mediumblue;
+    background-color: rgb(15, 228, 214);
+    color: rgb(8, 247, 60);
     line-height: 2.0;
 
 }
@@ -8,16 +8,9 @@ body{
 h1{
     border: double;
     text-align: center;
-
+}
 
 p{
     font-size:28;
-    text-align: center;
-
+    
 }
-p1{ color:rgb(14, 235, 84);
-    text-align:center;
-}
-
-p2{color: navajowhite;}
-  }
