@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: rgb(228, 54, 11);
     color: mediumblue;
     line-height: 2.0;
 
@@ -8,4 +8,8 @@ body{
 h1{
     border: double;
     text-align: center;
+}
+
+p{
+
 }
