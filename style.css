@@ -1,6 +1,6 @@
 body{
-    background-color: rgb(33, 37, 37);
-    color: rgb(206, 108, 108);
+    background-color: rgba(11, 45, 235, 0.685);
+    color: #ffe9e900;
     line-height: 2.0;
 
 }
@@ -8,7 +8,7 @@ body{
 h1{
     border: double;
     text-align: center;
-    color: rgb(219, 223, 10);
+    color: rgb(240, 250, 247);
 }
 
 p{
