@@ -1,14 +1,18 @@
 body{
+<<<<<<< HEAD
+    background-color: rgba(246, 247, 248, 0.685);
+    color: #251c1200;
+=======
     background-color: rgba(57, 78, 202, 0.685);
     color: #04fa3900;
+>>>>>>> c5892d7fa225be19964dee074911e5d99a996d1b
     line-height: 2.0;
-
 }
 
 h1{
     border: double;
     text-align: center;
-    color: rgb(247, 244, 245);
+    color: #252324;
 }
 
 p{
